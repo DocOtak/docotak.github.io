@@ -11,15 +11,65 @@ categories: []
 tags: []
 comments: []
 ---
-    {% for member in site.static_files %}
-    {{ member.path }}
-    {% endfor %}
+<style type="text/css">
+.map_container{
+  width: 100%;
+}
+.land{
+  fill: #666;
+}
+.graticule {
+  fill: none;
+  stroke: #666;
+  stroke-width: .5px;
+}
+.cce2{
+  fill: none;
+  stroke: #000;
+  stroke-width: 3px;
+}
+.p02_1{
+  fill: none;
+  stroke: #000;
+  stroke-width: 3px;
+}
+.exits2{
+  fill: none;
+  stroke: #000;
+  stroke-width: 3px;
+}
+.p02_2{
+  fill: none;
+  stroke: #000;
+  stroke-width: 3px;
+}
+.p16s{
+  fill: none;
+  stroke: #000;
+  stroke-width: 3px;
+}
+</style>
+<ul>
+<li><a onclick="show_full_map()" class="list-group-item">Full Map</a></li>
+<li><a onclick="show_p16s()" class="list-group-item">P16S (2014)</a></li>
+<li><a onclick="show_p02_2()" class="list-group-item">P02 Leg 2 (2013)</a></li>
+<li><a onclick="show_p02_1()" class="list-group-item">P02 Leg 1 (2013)</a></li>
+<li><a onclick="show_exits2()" class="list-group-item">EXITS2 (2011)</a></li>
+<li><a onclick="show_cce2()" class="list-group-item">CCE2 Deployment (2010)</a></li>
+</ul>
 <div class="map_container">
 </div>
 <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
 <script>
+var world = {{ site.data.world-50m | jsonify }};
+var cce2 = {{ site.data.2010-CCE2 | jsonify }};
+var exits2 = {{ site.data.2010-EXITS2 | jsonify }};
+var p02_1 = {{ site.data.2013-P02-Leg1 | jsonify }};
+var p02_2= {{ site.data.2013-P02-Leg2 | jsonify }};
+var p16s= {{ site.data.2014-P16S | jsonify }};
+
 var width = 960,
     height = 650;
 
@@ -45,18 +95,17 @@ var path = d3.geo.path()
   .attr("class", "graticule")
   .attr("d", path);
 
-  d3.json("/where/data/world-50m.json", function(error, world) {
-      features.insert("path", ".graticule")
-      .datum(topojson.feature(world, world.objects.land))
-      .attr("class", "land")
-      .attr("d", path);
-      });
+features.insert("path", ".graticule")
+  .datum(topojson.feature(world, world.objects.land))
+  .attr("class", "land")
+  .attr("d", path);
 
-load_track("/where/data/2010-CCE2.geojson", "cce2");
-//load_track("/static/data/cruises/KM1102_1min.r2rnav.bz2.json", "exits2");
-//load_track("/static/data/cruises/MV1305_1min.r2rnav.bz2.json", "p02_1");
-//load_track("/static/data/cruises/MV1306_1min.r2rnav.bz2.json", "p02_2");
-//load_track("/static/data/cruises/NBP1403.nav.bz2.json", "p16s");
+
+load_track(cce2, "cce2");
+load_track(exits2, "exits2");
+load_track(p02_1, "p02_1");
+load_track(p02_2, "p02_2");
+load_track(p16s, "p16s");
 
 $(svg).width("100%");
 $(".map_container").height($(".map_container").width() * 0.6777);
@@ -64,15 +113,13 @@ $(window).resize(function(){
     $(".map_container").height($(".map_container").width() * 0.6777);
     });
 
-function load_track(f_path, t_class){
-d3.json(f_path, function(collection) {
+function load_track(collection, t_class){
     tracks = features.selectAll()
     .data(collection.features).enter().append("g")
     .attr("class", t_class);
     tracks.append("svg:path")
     .attr("d", path);
-    });
-}
+    };
 
 function zoom_to(x, y, k) {
   x = -x;
