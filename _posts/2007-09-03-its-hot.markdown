@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: It's Hot
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 20
+wordpress_url: http://www.andrewbarna.org/blog/?p=20
+date: '2007-09-03 13:17:46 -0700'
+date_gmt: '2007-09-03 21:17:46 -0700'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>San Diego is roasting right now, not as bad as last year, but still hot. I went out to the desert on Friday to watch a meteor shower. On the way out I stopped in Alpine for dinner. I had a shrimp and pesto pie (read as pizza). It was good, although the amount of butter that was on it was excessive. Almost as if they melted a whole stick and poured it on. The crust was so soggy I had to eat it with a fork and knife. While eating, the clouds rolled in and it started to flash, bang, crack, and rumble, although there was no rain.<br />
+The meteor shower was unimpressive. maybe it will be more awesome in 50 or so years when we see this particular shower again.</p>
+<p>Also, Jeeps are awesome.</p>

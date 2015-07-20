@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: "'Ilima 103"
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 157
+wordpress_url: http://www.andrewbarna.org/blog/?p=157
+date: '2008-10-19 17:18:24 -0700'
+date_gmt: '2008-10-20 01:18:24 -0700'
+categories:
+- Periodic Photo
+tags: []
+comments: []
+---
+<p>This is my room, it was recently rearranged to create more space for people. The guy looking at the camera is not a roommate, everyone else is.<br &#47;><br &#47;><a href="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery&#47;main.php?g2_view=core.DownloadItem&g2_itemId=17136"><img src="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery&#47;main.php?g2_view=core.DownloadItem&g2_itemId=17138&g2_serialNumber=1"><&#47;a></p>

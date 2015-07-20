@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Scripps Day 2011
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 676
+wordpress_url: http://www.andrewbarna.org/?p=676
+date: '2011-06-18 14:44:07 -0700'
+date_gmt: '2011-06-19 00:44:07 -0700'
+categories:
+- Periodic Photo
+- HPU Blog Mirror
+tags: []
+comments: []
+---
+<p>Last friday was Scripps Day, which is a day (heh) to celebrate all things Scripps. Among other things, this meant that the SIO pier was open for to the public. I along with the rest of the group I work with (well, those present) went to check it out. The weather could not have been more perfect!<br &#47;><a href="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;albums&#47;2011%3A-Scripps-Day&#47;DSC_2735-DSC_2738.jpg"><img src="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;2011%3A-Scripps-Day&#47;DSC_2735-DSC_2738.jpg" &#47;><&#47;a><br &#47;>The above photo shows most of SIO, the building I work in is underneath (visually in the image) the large crane.<br &#47;><br &#47;>This next view is looking south (ish) toward the rest of La Jolla (my hometown).<br &#47;><a href="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;albums&#47;2011%3A-Scripps-Day&#47;DSC_2740-DSC_2743.jpg"><img src="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;2011%3A-Scripps-Day&#47;DSC_2740-DSC_2743.jpg" &#47;><&#47;a><br &#47;>The aquarium was also open for viewing.<br &#47;><img src="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;2011%3A-Scripps-Day&#47;DSC_2755.jpg" &#47;><br &#47;><img src="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;2011%3A-Scripps-Day&#47;DSC_2761.jpg" &#47;><br &#47;><br &#47;>Here are some more pictures if you aren't already convinced that La Jolla and Scripps is awesome.<br &#47;><img src="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;2011%3A-Scripps-Day&#47;DSC_2710.jpg" &#47;><br &#47;><img src="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;2011%3A-Scripps-Day&#47;DSC_2750.jpg" &#47;><br &#47;><img src="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;2011%3A-Scripps-Day&#47;DSC_2707.jpg" &#47;><br &#47;>If you are interested in what I'm actually doing at SIO (on not Scripps Day), it involves collecting all the data I can find from a German icebreaker, <a href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;RV_Polarstern" >RV Polarstern<&#47;a>. Hopefully it will go online soon.<br &#47;>That is all for now I guess.<br &#47;>-Barna</p>

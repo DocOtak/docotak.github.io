@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: SPAM Jam '11
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 666
+wordpress_url: http://www.andrewbarna.org/?p=666
+date: '2011-05-12 01:23:48 -0700'
+date_gmt: '2011-05-12 11:23:48 -0700'
+categories:
+- Periodic Photo
+- HPU Blog Mirror
+tags: []
+comments: []
+---
+<p>Sometime last month (the 30th I think) was the world famous SPAM Jam! I had been looking forward to this event for weeks before it was to occur. If you don't know, Hawaii loves SPAM, and as such, there is an entire festival devoted just to SPAM. Many of the local restaurants set up booths to serve their unique spam centered dishes!<br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;Random%20Stuff&#47;IMG_0269.JPG"><br &#47;>As you can see the place is just packed. The festival takes place on Kalakaua Ave in Waikiki, it is amazing to see such a major road contain only pedestrians.<br &#47;><br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;Random%20Stuff&#47;IMG_0278.JPG"><br &#47;>Some spam chili nachos.<br &#47;><br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;Random%20Stuff&#47;IMG_0276.JPG"><br &#47;>Spam Katsu<br &#47;><br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;Random%20Stuff&#47;IMG_0277.JPG"><br &#47;>Spam fried rice<br &#47;><br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;Random%20Stuff&#47;IMG_0272.JPG"><br ?>It wasn't all SPAM, I had some pretty awesome garlic fries, I even asked for some extra garlic they obliged and the above is the result.<br &#47;><br &#47;>I am now over half way through my finals. Only one to go. I go to San Diego on monday and am looking forward to my first burrito. Some changes are coming for next semester, for one, I will not be living on campus so expect more awesome posts about eating on a budget and how living in the dorms compares to living off campus.<br &#47;>That's all for now.<br &#47;><br &#47;>-Barna</p>

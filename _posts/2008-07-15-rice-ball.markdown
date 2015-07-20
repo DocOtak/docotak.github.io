@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Rice Ball
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 126
+wordpress_url: http://www.andrewbarna.org/blog/?p=126
+date: '2008-07-15 23:13:49 -0700'
+date_gmt: '2008-07-16 07:13:49 -0700'
+categories:
+- Periodic Photo
+tags: []
+comments:
+- id: 3512
+  author: Finger Puppet
+  author_email: gotohell@fu.com
+  author_url: ''
+  date: '2008-07-25 12:16:33 -0700'
+  date_gmt: '2008-07-25 20:16:33 -0700'
+  content: You know what would make that even more delicious? If they could put the
+    rice ball, tempura, sauce and everything into a tortilla and wrap it up.
+---
+<p>I ate at the Yummy Maki Yummy Box. This was my dads box.<br &#47;><a href="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery&#47;main.php?g2_view=core.DownloadItem&g2_itemId=16935"><img src="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery&#47;main.php?g2_view=core.DownloadItem&g2_itemId=16936&g2_serialNumber=2"><&#47;a></p>

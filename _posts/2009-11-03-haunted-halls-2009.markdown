@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Haunted Halls 2009
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 270
+wordpress_url: http://www.andrewbarna.org/blog/?p=270
+date: '2009-11-03 14:03:04 -0800'
+date_gmt: '2009-11-03 22:03:04 -0800'
+categories:
+- Periodic Video
+- HPU Blog Mirror
+tags: []
+comments: []
+---
+<p>Last week the HPU Reshalls had their annual Haunted Halls contest where we decorated the hall and then had an accompanying performance. My hall, Melia, decided to do a creepy version of Alice in Wonderland.<br &#47;><video controls height='362px' width='640px' poster='http:&#47;&#47;www.andrewbarna.org&#47;media&#47;video&#47;2009_melia_haunted_halls&#47;2009_melia_haunted_halls.jpg'><br />
+	<source src="http:&#47;&#47;www.andrewbarna.org&#47;media&#47;video&#47;2009_melia_haunted_halls&#47;2009_melia_haunted_halls.m4v"  type='video&#47;mp4'><br />
+	<source src="http:&#47;&#47;www.andrewbarna.org&#47;media&#47;video&#47;2009_melia_haunted_halls&#47;2009_melia_haunted_halls.3gp"  type='video&#47;3gpp'><br />
+	<source src="http:&#47;&#47;www.andrewbarna.org&#47;media&#47;video&#47;2009_melia_haunted_halls&#47;2009_melia_haunted_halls.ogg" type='video&#47;ogg'><br />
+	Your browser does not support HTML5<br />
+<&#47;video><br &#47;><br &#47;>We won BTW.<br &#47;>-Andrew</p>

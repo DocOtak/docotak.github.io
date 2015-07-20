@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Miso soup
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 280
+wordpress_url: http://www.andrewbarna.org/blog/?p=280
+date: '2009-12-01 22:33:35 -0800'
+date_gmt: '2009-12-02 06:33:35 -0800'
+categories:
+- Periodic Photo
+tags: []
+comments: []
+---
+<p>Of the instant varity</p>
+<p><a href="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;12&#47;p_2048_1536_3E07B8F2-1A9B-4479-8A3D-8D1DFCEE0EB8.jpeg"><img src="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;12&#47;p_2048_1536_3E07B8F2-1A9B-4479-8A3D-8D1DFCEE0EB8.jpeg" alt="" width="225" height="300" class="alignnone size-full wp-image-364" &#47;><&#47;a><&#47;p></p>

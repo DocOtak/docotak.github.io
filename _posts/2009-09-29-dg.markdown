@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: D&G
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 262
+wordpress_url: http://www.andrewbarna.org/blog/?p=262
+date: '2009-09-29 14:33:10 -0700'
+date_gmt: '2009-09-29 22:33:10 -0700'
+categories:
+- HPU Blog Mirror
+tags: []
+comments: []
+---
+<p>D&G means "Dinner and a Game" a monthly event produced by RAC (Residence Activity Council). First those who signed up are taken to a restaurant (this time it was Chili's in Kahala Mall). There were a variety of foods to choose from, from the rather massive cobb salad, to quesadillas, to burgers. I personally had a bacon cheese burger.<br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;2009_Dinner_and_a_Game_1&#47;DSC_9648.jpg" height="330px" width="500px"&#47;><br &#47;><br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;2009_Dinner_and_a_Game_1&#47;DSC_9652.jpg" height="330px" width="500px"&#47;> <br &#47;><br &#47;>Others with me had the quesadilla...<br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;2009_Dinner_and_a_Game_1&#47;DSC_9645.jpg" height="330px" width="500px"&#47;><br &#47;><br &#47;>...and the massive cobb salad (with chicken).<br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;2009_Dinner_and_a_Game_1&#47;DSC_9647.jpg" height="330px" width="500px"&#47;><br &#47;><br &#47;>After dinner we are then taken to watch and cheer for an HPU sporting event. This time is was HPU v. BYUH womens volleyball. I was very impressed with the skill of the players (on both sides).<br &#47;><br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;2009_Dinner_and_a_Game_1&#47;DSC_9692.jpg"&#47;><br &#47;><br &#47;>The game itself was close, at times it looked like BYUH was going to win, other times it looked as if HPU was going to win, all until the final period. <br &#47;><br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;2009_Dinner_and_a_Game_1&#47;DSC_9722.jpg"&#47;><br &#47;><br &#47;>When HPU pulled through and won the game. Much celebration was in order.<br &#47;><br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery3&#47;var&#47;resizes&#47;2009_Dinner_and_a_Game_1&#47;DSC_9732.jpg"&#47;><br &#47;><br &#47;>I hope I can make it to the next Dinner and a Game.<br &#47;><br &#47;>-Andrew</p>

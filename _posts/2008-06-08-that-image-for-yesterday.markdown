@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: That image for yesterday....
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 118
+wordpress_url: http://www.andrewbarna.org/blog/?p=118
+date: '2008-06-08 14:26:20 -0700'
+date_gmt: '2008-06-08 22:26:20 -0700'
+categories:
+- Periodic Photo
+tags: []
+comments: []
+---
+<p>Apparently the system is down at Sprint. Taken on Broadway in downtown San Diego.<br&#47;><a href="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery&#47;main.php?g2_view=core.DownloadItem&g2_itemId=16471"><img src="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery&#47;main.php?g2_view=core.DownloadItem&g2_itemId=16472&g2_serialNumber=2"><&#47;a></p>

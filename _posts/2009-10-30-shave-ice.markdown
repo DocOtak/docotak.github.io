@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Shave ice
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 235
+wordpress_url: http://www.andrewbarna.org/blog/?p=235
+date: '2009-10-30 17:40:20 -0700'
+date_gmt: '2009-10-31 01:40:20 -0700'
+categories:
+- Periodic Photo
+tags: []
+comments: []
+---
+<p>Only the best</p>
+<p><a href="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;10&#47;l_2048_1536_58714C55-DAE2-4234-B390-7ED66593E6AB.jpeg"><img src="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;10&#47;l_2048_1536_58714C55-DAE2-4234-B390-7ED66593E6AB.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" &#47;><&#47;a><br &#47;><br &#47;><a href="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;10&#47;l_2048_1536_0A1E334A-1BB0-4AB8-9D88-7D4E7E4F1C20.jpeg"><img src="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;10&#47;l_2048_1536_0A1E334A-1BB0-4AB8-9D88-7D4E7E4F1C20.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" &#47;><&#47;a><&#47;p></p>

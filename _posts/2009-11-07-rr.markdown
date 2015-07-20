@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: R&R?
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 245
+wordpress_url: http://www.andrewbarna.org/blog/?p=245
+date: '2009-11-07 19:12:49 -0800'
+date_gmt: '2009-11-08 03:12:49 -0800'
+categories:
+- Periodic Photo
+tags: []
+comments: []
+---
+<p>Am I? This is looking straight up.</p>
+<p><a href="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;11&#47;l_2048_1536_80474FE0-97C8-4945-AC2A-30621C5E095B.jpeg"><img src="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;11&#47;l_2048_1536_80474FE0-97C8-4945-AC2A-30621C5E095B.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" &#47;><&#47;a><&#47;p></p>

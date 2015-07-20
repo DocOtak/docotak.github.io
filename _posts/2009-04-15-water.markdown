@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Water...
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 178
+wordpress_url: http://www.andrewbarna.org/blog/?p=178
+date: '2009-04-15 13:42:15 -0700'
+date_gmt: '2009-04-15 21:42:15 -0700'
+categories:
+- HPU Blog Mirror
+tags: []
+comments: []
+---
+<p>Being from southern California I am used to the arid climate there. Hawaii to me, conjured up images of bright sunny beaches with a warm climate and a cool breeze. However, to my surprise, this was not always the conditions I was in. In the fall semester there was actually a lot of rain, almost every day it would rain a little and occasionally it would just pour on us. At one point the storm was so bad (or good, I like storms) that it knocked out power to Kane'ohe for a few hours. I carry an umbrella with me in my pack every time I go to class, just in cause I may need to walk back to my hall in the rain.<br &#47;><br &#47;>At first the rain was very interesting to me, when I would hear it start raining, I would run to the window to watch, now I just mostly ignore it. Occasionally though, it will rain hard enough to warrant a look.<br &#47;><object width="400" height="300"><param name="allowfullscreen" value="true" &#47;><param name="allowscriptaccess" value="always" &#47;><param name="movie" value="http:&#47;&#47;vimeo.com&#47;moogaloop.swf?clip_id=3342143&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" &#47;><embed src="http:&#47;&#47;vimeo.com&#47;moogaloop.swf?clip_id=3342143&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application&#47;x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"><&#47;embed><&#47;object><br &#47;><a href="http:&#47;&#47;vimeo.com&#47;3342143">HPU Rain 3<&#47;a> from <a href="http:&#47;&#47;vimeo.com&#47;user791944">Andrew Barna<&#47;a> on <a href="http:&#47;&#47;vimeo.com">Vimeo<&#47;a>.<br &#47;><br &#47;>But don't worry, more often than not it's the beautiful sunny Hawaii that everyone thinks of and that makes the rain and little bits of bad weather worth it, if you visit, just be sure to throw an umbrella in with your swim suit... and while here, you'll probably find this waiting for you.<br &#47;><object width="400" height="300"><param name="allowfullscreen" value="true" &#47;><param name="allowscriptaccess" value="always" &#47;><param name="movie" value="http:&#47;&#47;vimeo.com&#47;moogaloop.swf?clip_id=1837779&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" &#47;><embed src="http:&#47;&#47;vimeo.com&#47;moogaloop.swf?clip_id=1837779&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application&#47;x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"><&#47;embed><&#47;object><br &#47;><a href="http:&#47;&#47;vimeo.com&#47;1837779">North Shore Moment<&#47;a> from <a href="http:&#47;&#47;vimeo.com&#47;user791944">Andrew Barna<&#47;a> on <a href="http:&#47;&#47;vimeo.com">Vimeo<&#47;a>.</p>

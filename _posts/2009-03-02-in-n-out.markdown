@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: In-N-Out!
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 166
+wordpress_url: http://www.andrewbarna.org/blog/?p=166
+date: '2009-03-02 13:37:27 -0800'
+date_gmt: '2009-03-02 21:37:27 -0800'
+categories:
+- HPU Blog Mirror
+tags: []
+comments: []
+---
+<p>Are you a prospective student from the southwest United Sates and are worried about how you'll be able to live without <a href="http:&#47;&#47;www.in-n-out.com&#47;">In-N-Out<&#47;a>? It was major topic of discussion at the so-cal summer send off party last year. Many people said their their "last meal" before flying to Hawaii would be a burger form In-N-Out. Well fear not my friends, there is a place in Kailua (and Waikiki) where you can get your burger fix should you need one.<br &#47;><br &#47;><a href="http:&#47;&#47;teddysbiggerburgers.com&#47;">Teddy's Bigger Burger<&#47;a> in Kailua has been serving as our In-N-Out replacement since last semester. It has a classic 50s looks about the place, with period appropriate decorations and tunes playing. It offers a wider selection than In-N-Out, so I haven't quite honed in on a favorite menu item. I'm still in the process of trying different things to see what I like.<br &#47;><br &#47;>The sign on the building in large friendly letters<br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery&#47;main.php?g2_view=core.DownloadItem&g2_itemId=26033&g2_serialNumber=2"&#47;><br &#47;><br &#47;>Ordering one of their burgers from friendly people!<br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery&#47;main.php?g2_view=core.DownloadItem&g2_itemId=26038&g2_serialNumber=2" &#47;><br &#47;><br &#47;>I decided to get some onion rings this time per suggestion of my dad back home, usually I get their french fries.<br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery&#47;main.php?g2_view=core.DownloadItem&g2_itemId=26048&g2_serialNumber=2"&#47;><br &#47;><br &#47;>I was raised on spicy foods so I decided to try the cajun burger. I've gotten the western and "normal" burgers in the past.<br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery&#47;main.php?g2_view=core.DownloadItem&g2_itemId=26053&g2_serialNumber=2"&#47;><br &#47;><br &#47;>A few bites in and you can see see juicy meat and the cajun seasoning getting all over everything<br &#47;><img src="http:&#47;&#47;www.andrewbarna.org&#47;photos&#47;gallery&#47;main.php?g2_view=core.DownloadItem&g2_itemId=26058&g2_serialNumber=2"&#47;><br &#47;><br &#47;>I plan on going back a few more times and trying different things. A friend who was with me got the "spud burger." I think I might try that next time.<br &#47;><br &#47;>Address for those who are here or are visiting:<a href="http:&#47;&#47;maps.google.com&#47;maps?f=q&source=s_q&hl=en&geocode=&q=539+Kailua+Rd,+Kailua,+HI&sll=21.39319,-157.740713&sspn=0.868207,1.275787&ie=UTF8&z=17&iwloc=addr"><br &#47;>539 Kailua Rd<br &#47;>Kailua, HI 96734<&#47;a><br &#47;><br &#47;>-Andrew</p>

@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: Olomana Chickens
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 389
+wordpress_url: http://www.andrewbarna.org/2010/05/389/
+date: '2010-05-04 00:27:37 -0700'
+date_gmt: '2010-05-04 08:27:37 -0700'
+categories:
+- Periodic Video
+tags:
+- Olomana
+- Hawaii
+- Chicken
+comments:
+- id: 4510
+  author: Money Man
+  author_email: rosi5v998estfg@gmail.com
+  author_url: http://Website
+  date: '2010-05-12 22:36:53 -0700'
+  date_gmt: '2010-05-13 06:36:53 -0700'
+  content: You already got some great responses...
+---
+<p><video controls height='480px' width='640px' preload ='none' poster="http:&#47;&#47;www.andrewbarna.org&#47;media&#47;video&#47;2010_olomana_chickens&#47;2010_olomana_chickens.jpg"><br />
+<source src="http:&#47;&#47;www.andrewbarna.org&#47;media&#47;video&#47;2010_olomana_chickens&#47;2010_olomana_chickens.m4v"  type='video&#47;mp4'><br />
+<source src="http:&#47;&#47;www.andrewbarna.org&#47;media&#47;video&#47;2010_olomana_chickens&#47;2010_olomana_chickens.3gp"  type='video&#47;3gpp'><br />
+<source src="http:&#47;&#47;www.andrewbarna.org&#47;media&#47;video&#47;2010_olomana_chickens&#47;2010_olomana_chickens.ogg" type='video&#47;ogg'><br />
+Your browser does not support HTML5<br />
+<&#47;video><br &#47;>Sound of the chickens as heard looking for a geocache on Olomana.</p>

@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: Sushi!!!
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 213
+wordpress_url: http://www.andrewbarna.org/blog/?p=213
+date: '2009-10-18 21:35:26 -0700'
+date_gmt: '2009-10-19 05:35:26 -0700'
+categories:
+- Uncategorized
+tags: []
+comments:
+- id: 4306
+  author: Pho
+  author_email: ''
+  author_url: http://blog.unbrain.net/archives/2009/10/pho/
+  date: '2009-10-21 16:35:34 -0700'
+  date_gmt: '2009-10-22 00:35:34 -0700'
+  content: "[...] my brother posts photos of interesting meals he eats onto his blog.
+    Well sir, consider this a declaration of [...]"
+---
+<p>Delicious</p>
+<p><a href="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;10&#47;l_2048_1536_347CE6C3-D3F4-4215-9D95-1785C788394C.jpeg"><img src="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;10&#47;l_2048_1536_347CE6C3-D3F4-4215-9D95-1785C788394C.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" &#47;><&#47;a><br &#47;><br &#47;><a href="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;10&#47;l_2048_1536_7E5D8295-D443-4D11-97AF-9FF6D9550DD8.jpeg"><img src="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;10&#47;l_2048_1536_7E5D8295-D443-4D11-97AF-9FF6D9550DD8.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" &#47;><&#47;a><&#47;p></p>

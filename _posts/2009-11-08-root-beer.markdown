@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Root beer
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 251
+wordpress_url: http://www.andrewbarna.org/blog/?p=251
+date: '2009-11-08 22:21:51 -0800'
+date_gmt: '2009-11-09 06:21:51 -0800'
+categories:
+- Periodic Photo
+- Food
+tags: []
+comments: []
+---
+<p>Hey Chris, got any local root beer made with non HFCS?</p>
+<p><a href="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;11&#47;p_2048_1536_1BA4E2D1-CF3D-4B8C-A272-1BF8525BBEC2.jpeg"><img src="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;11&#47;p_2048_1536_1BA4E2D1-CF3D-4B8C-A272-1BF8525BBEC2.jpeg" alt="" width="225" height="300" class="alignnone size-full wp-image-364" &#47;><&#47;a><br &#47;><br &#47;><a href="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;11&#47;l_2048_1536_6F053C7B-74AA-4885-96CE-AF1BA989FE5E.jpeg"><img src="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;11&#47;l_2048_1536_6F053C7B-74AA-4885-96CE-AF1BA989FE5E.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" &#47;><&#47;a><&#47;p></p>

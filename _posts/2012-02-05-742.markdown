@@ -1,0 +1,21 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 742
+wordpress_url: http://www.andrewbarna.org/?p=742
+date: '2012-02-05 23:06:30 -0800'
+date_gmt: '2012-02-06 09:06:30 -0800'
+categories: []
+tags: []
+comments: []
+---
+<p>Anything and everything that appears on my (this) website is hereby licensed under the Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0) license. Which is viewable at the creative commons website.The following files are explicitly CC BY-NC 3.0 for the purpose of wikipedia:Reversing Thermometer (Wikipedia Page)</p>

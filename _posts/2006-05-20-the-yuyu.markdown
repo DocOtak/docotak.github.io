@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: The Yuyu
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 11
+wordpress_url: http://www.andrewbarna.org/?p=11
+date: '2006-05-20 14:22:18 -0700'
+date_gmt: '2006-05-20 22:22:18 -0700'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>Watch <a href="http:&#47;&#47;www.biteycastle.com&#47;theYuyu.html" >The Yuyu<&#47;a> over at biteycastle. It's one of the more amazing flash animations I have seen.</p>

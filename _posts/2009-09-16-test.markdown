@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Test
+author:
+  display_name: abarna
+  login: admin
+  email: abarna@gmail.com
+  url: http://
+author_login: admin
+author_email: abarna@gmail.com
+author_url: http://
+wordpress_id: 210
+wordpress_url: http://www.andrewbarna.org/blog/?p=210
+date: '2009-09-16 23:03:13 -0700'
+date_gmt: '2009-09-17 07:03:13 -0700'
+categories:
+- Uncategorized
+tags:
+- test
+comments: []
+---
+<p>I'm testing posting from an iPhone</p>
+<p><a href="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;09&#47;l_2048_1536_99AA7E0D-C6A3-42E4-948D-CA708BE628D8.jpeg"><img src="http:&#47;&#47;www.andrewbarna.org&#47;blog&#47;wp-content&#47;uploads&#47;2009&#47;09&#47;l_2048_1536_99AA7E0D-C6A3-42E4-948D-CA708BE628D8.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" &#47;><&#47;a><&#47;p></p>
