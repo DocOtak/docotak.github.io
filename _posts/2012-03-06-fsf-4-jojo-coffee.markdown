@@ -4,7 +4,9 @@ status: publish
 published: true
 title: 'FSF 4: Jojo Coffee'
 date: '2012-03-06 11:07:01 -0800'
-tags: ["Food"]
+categories:
+- Food
+- Fort Street Food
 ---
 Today, a small coffee... stand, was my fooden place. 
 Located in what would have been the lobby of the old Blaisdell Hotel, 
