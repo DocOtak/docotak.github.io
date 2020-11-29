@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: The End of the world
-author:
-  display_name: abarna
-  login: admin
-  email: abarna@gmail.com
-  url: http://
 author_login: admin
 author_email: abarna@gmail.com
 author_url: http://
@@ -21,14 +16,6 @@ date_gmt: '2006-06-06 04:06:25 -0700'
 categories:
 - Uncategorized
 tags: []
-comments:
-- id: 3829
-  author: Dahlia
-  author_email: grdgereg@gmail.com
-  author_url: http://filmnew.ru
-  date: '2008-11-05 15:20:07 -0800'
-  date_gmt: '2008-11-05 23:20:07 -0800'
-  content: It has long been looking for this information, thank you.
 ---
 Because that seems to be a hot topic with the whole 666(06/06/2006) business. Here is something I + Iain wrote via SubEthaEdit.
 

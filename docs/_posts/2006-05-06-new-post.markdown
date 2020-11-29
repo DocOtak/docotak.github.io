@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: New Post
-author:
-  display_name: abarna
-  login: admin
-  email: abarna@gmail.com
-  url: http://
 author_login: admin
 author_email: abarna@gmail.com
 author_url: http://
@@ -21,4 +16,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>My brother was complaining that I haven't posted stuff, so here is a post. Also I put photos from Atlanta up <a href="http:&#47;&#47;andrewbarna.org&#47;wp-gallery2.php?g2_itemId=393">check<&#47;a> <a href="http:&#47;&#47;andrewbarna.org&#47;wp-gallery2.php?g2_itemId=1060">it<&#47;a> <a href="http:&#47;&#47;andrewbarna.org&#47;wp-gallery2.php?g2_itemId=1489">out<&#47;a>.</p>
+My brother was complaining that I haven't posted stuff, so here is a post. Also I put photos from Atlanta up check it out.

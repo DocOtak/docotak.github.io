@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: New Post! and photoS
-author:
-  display_name: abarna
-  login: admin
-  email: abarna@gmail.com
-  url: http://
 author_login: admin
 author_email: abarna@gmail.com
 author_url: http://
@@ -27,6 +22,8 @@ comments:
   date_gmt: '2007-07-22 03:34:58 -0700'
   content: Hey.  Defcon?  Get back to me.
 ---
-<p>This is a new post, also I've been participating in the local FIRST Regional at the San Diego Sports Arena (IPayOne Center).</p>
-<p>I took a picture of each pit when no one was around, <a href="http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery&#47;main.php?g2_itemId=14216">check it!<&#47;a></p>
-<p>-andrew</p>
+This is a new post, also I've been participating in the local FIRST Regional at the San Diego Sports Arena (IPayOne Center).
+
+I took a picture of each pit when no one was around, check it!
+
+-andrew

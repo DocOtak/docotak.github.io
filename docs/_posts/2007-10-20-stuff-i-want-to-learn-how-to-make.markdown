@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Stuff I want to learn how to make
-author:
-  display_name: abarna
-  login: admin
-  email: abarna@gmail.com
-  url: http://
 author_login: admin
 author_email: abarna@gmail.com
 author_url: http://
@@ -27,16 +22,13 @@ comments:
   date_gmt: '2007-12-06 17:19:09 -0800'
   content: The she-wolf was voiced by Dana Scully.
 ---
-<p><b>1. Coconut macaroons<&#47;b><br &#47;><br />
-I just love these things.<br />
-<&#47;p></p>
-<p><b>2. Good gooey cinnamon rolls<&#47;b><br &#47;><br />
-It's harder than you think to pull these off.<br />
-<&#47;p></p>
-<p><b>3. Falafel<&#47;b><br &#47;><br />
-I tried once, they just fell apart.<br />
-<&#47;p></p>
-<p><b>4. Cookies<&#47;b><br &#47;><br />
-Can't go wrong with cookies, not just chocolate chip, but all kinds.<br />
-<&#47;p></p>
-<p>I'll add more when I think of more.</p>
+1. Coconut macaroons\
+I just love these things.
+2. Good gooey cinnamon rolls\
+It's harder than you think to pull these off.
+3. Falafelx\
+I tried once, they just fell apart.
+4. Cookies\
+Can't go wrong with cookies, not just chocolate chip, but all kinds.
+
+I'll add more when I think of more.

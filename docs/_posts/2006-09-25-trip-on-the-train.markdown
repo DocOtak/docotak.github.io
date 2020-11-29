@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Trip on the train
-author:
-  display_name: abarna
-  login: admin
-  email: abarna@gmail.com
-  url: http://
 author_login: admin
 author_email: abarna@gmail.com
 author_url: http://

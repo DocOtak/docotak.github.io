@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: First Post!
-author:
-  display_name: abarna
-  login: admin
-  email: abarna@gmail.com
-  url: http://
 author_login: admin
 author_email: abarna@gmail.com
 author_url: http://
@@ -28,4 +23,8 @@ comments:
   content: you need to check your html -- the navigation bar is not displaying properly
     on my IE 6.0...
 ---
-<p>On Saturday the 25th I drove up to the Great Western Forum from San Diego to watch the FIRST Robotics regional. I took a sweet <a href="http:&#47;&#47;andrewbarna.org&#47;video&#47;la_first.mov" target="_blank">time lapse<&#47;a> of it. A good time was had by all, I think.</p>
+On Saturday the 25th I drove up to the Great Western Forum from San Diego to watch the FIRST Robotics regional. I took a sweet time lapse of it. A good time was had by all, I think.
+
+<video width="100%" muted autoplay controls>
+  <source src="/img/la_first.mp4" type="video/mp4">
+</video>
