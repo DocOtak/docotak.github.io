@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: The Cake is a lie!
-author:
-  display_name: abarna
-  login: admin
-  email: abarna@gmail.com
-  url: http://
 author_login: admin
 author_email: abarna@gmail.com
 author_url: http://
@@ -20,4 +15,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Just in case you didn't know. I <3 my companion cube.</p>
+Just in case you didn't know. I <3 my companion cube.

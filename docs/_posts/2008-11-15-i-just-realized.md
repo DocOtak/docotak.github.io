@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: I just realized...
-author:
-  display_name: abarna
-  login: admin
-  email: abarna@gmail.com
-  url: http://
 author_login: admin
 author_email: abarna@gmail.com
 author_url: http://
@@ -20,5 +15,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>...in Hawai'i, no one waters their lawn.</p>
-<p>Unrelated, my computer is broken and being fixed by apple. Also the Ala Moana apple store people know me and started to greet me by name when I walk in.</p>
+...in Hawai'i, no one waters their lawn.
+
+Unrelated, my computer is broken and being fixed by apple. Also the Ala Moana apple store people know me and started to greet me by name when I walk in.

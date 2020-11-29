@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Everything is fixed
-author:
-  display_name: abarna
-  login: admin
-  email: abarna@gmail.com
-  url: http://
 author_login: admin
 author_email: abarna@gmail.com
 author_url: http://
@@ -20,4 +15,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>I had some DB troubles, it broke everything. I'm disappointed that no one said anything. That's what you get when everyone uses RSS, they just think the site hasn't been updated in a while. Lame... Sorry to my 3 readers.</p>
+I had some DB troubles, it broke everything. I'm disappointed that no one said anything. That's what you get when everyone uses RSS, they just think the site hasn't been updated in a while. Lame... Sorry to my 3 readers.
