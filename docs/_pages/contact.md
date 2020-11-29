@@ -1,4 +1,5 @@
 ---
+permalink: "/contact/"
 layout: page
 status: publish
 published: true

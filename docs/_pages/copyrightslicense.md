@@ -1,4 +1,5 @@
 ---
+permalink: "/copyrightslicense/"
 layout: page
 status: publish
 published: true
