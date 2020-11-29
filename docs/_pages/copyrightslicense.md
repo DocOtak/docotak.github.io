@@ -20,9 +20,14 @@ categories: []
 tags: []
 comments: []
 ---
-<p>The original works that appear on my (this) website is hereby licensed under the Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) license unless otherwise noted. The license is viewable at the <a href='http:&#47;&#47;creativecommons.org&#47;licenses&#47;by-nc-sa&#47;3.0&#47;'>creative commons website<&#47;a>.<&#47;p></p>
-<p>I can get you some special permissions if you just <a href='mailto:copyrights@andrewbarna.org'>email me<&#47;a>.<&#47;p></p>
-<p>The following files are explicitly <a href='http:&#47;&#47;creativecommons.org&#47;licenses&#47;by-sa&#47;3.0&#47;'>CC BY-SA 3.0<&#47;a> for the purpose of wikipedia and commercial derivatives are allowed without my explicit permission:
-<ol>
-<li><a href='http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery3&#47;index.php&#47;2009SIO&#47;CIMG1538'>Reversing Thermometer<&#47;a> (<a href='http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;File:Rtherm.JPG'>Wikipedia Page<&#47;a>)<&#47;li>
-<li><a href='http:&#47;&#47;andrewbarna.org&#47;photos&#47;gallery3&#47;index.php&#47;2007-Hellhole-Canyon&#47;DSC_1838-JPG'>Bighorn Sheep<&#47;a> (<a href='http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;File:Desert_Bighorn_Barna_Cropped.jpg'>Wikipedia Page<&#47;a>)<&#47;ol><&#47;p></p>
+The original works that appear on my (this) website is hereby licensed under the Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) license unless otherwise noted.
+The license is viewable at the [creative commons website](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+I can get you some special permissions if you just [email me](mailto:copyrights@andrewbarna.org)
+
+The following files are explicitly [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) for the purpose of wikipedia and commercial derivatives are allowed without my explicit permission
+
+1. Reversing Thermometer ([Wikipedia Page](https://en.wikipedia.org/wiki/File:Rtherm.JPG))
+![Reversing Thermometer](/img/2009-08-17_5331_CIMG1538.JPG)
+2. Bighorn Sheep ([Wikipedia Page](https://en.wikipedia.org/wiki/File:Desert_Bighorn_Barna_Cropped.jpg))
+![Bighorn Sheep](/img/2007-03-10_3113_DSC_1838.JPG)
