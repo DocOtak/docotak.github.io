@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>One of these weekends I need to just drive out to the desert or the mountains. Camp over night somewhere, go on some hikes, and just get away from the city. No one but me and where ever it is I am.Or I could go on a really long bike ride...P.s. Alex you get your bike yet?</p>
+One of these weekends I need to just drive out to the desert or the mountains. Camp over night somewhere, go on some hikes, and just get away from the city. No one but me and where ever it is I am.Or I could go on a really long bike ride...P.s. Alex you get your bike yet?

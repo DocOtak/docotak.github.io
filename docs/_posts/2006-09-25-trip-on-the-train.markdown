@@ -27,4 +27,4 @@ comments:
   date_gmt: '2007-02-16 01:36:55 -0800'
   content: You need to get your shit together.
 ---
-<p>I should have photos posted soon.</p>
+I should have photos posted soon.

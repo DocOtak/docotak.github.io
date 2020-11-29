@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>I will be taking the train to Portland, OR on August 17th, A 32 hour trip. A Fun time will be had by me. More when I feel like writing.</p>
+I will be taking the train to Portland, OR on August 17th, A 32 hour trip. A Fun time will be had by me. More when I feel like writing.

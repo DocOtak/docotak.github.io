@@ -20,5 +20,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>I'm doing my part.<br />
-<a href="http:&#47;&#47;www.xenu.net&#47;">Scientology<&#47;a></p>
+I'm doing my part.
+
+[Scientology](https://www.xenu.net/)

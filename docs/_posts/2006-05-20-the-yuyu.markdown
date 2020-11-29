@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Watch <a href="http:&#47;&#47;www.biteycastle.com&#47;theYuyu.html" >The Yuyu<&#47;a> over at biteycastle. It's one of the more amazing flash animations I have seen.</p>
+Watch [The Yuyu](https://bitey.com/yuyu/) over at biteycastle. It's one of the more amazing flash animations I have seen.

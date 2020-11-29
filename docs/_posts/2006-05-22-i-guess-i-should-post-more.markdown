@@ -22,4 +22,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>I should probably post more stuff. Maybe I'll put up the entirety of the photos I have taken for robotics.</p>
+I should probably post more stuff. Maybe I'll put up the entirety of the photos I have taken for robotics.
