@@ -20,9 +20,7 @@ categories: []
 tags: []
 comments: []
 ---
-<p>The following are ways that you can get some sort of message to me:</p>
-<ul>
-<li><span style="line-height: 18px;">Twitter: <a title="Twitter Contact" href="https:&#47;&#47;twitter.com&#47;#!&#47;AndrewBarna" target="_blank">@AndrewBarna<&#47;a><&#47;span><&#47;li>
-<li><span style="line-height: 18px;">Email: <a title="email link" href="mailto:message@andrewbarna.org">message@andrewbarna.org<&#47;a><&#47;span><&#47;li><br />
-<&#47;ul><br />
-<span style="line-height: 18px;">&nbsp;<&#47;span></p>
+The following are ways that you can get some sort of message to me:
+
+* Twitter: [@AndrewBarna](https://twitter.com/@AndrewBarna)
+* Email: [me@andrewbarna.org](mailto:me@andrewbarna.org)
