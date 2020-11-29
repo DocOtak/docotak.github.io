@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Storm Update
-author:
-  display_name: abarna
-  login: admin
-  email: abarna@gmail.com
-  url: http://
 author_login: admin
 author_email: abarna@gmail.com
 author_url: http://
@@ -20,5 +15,5 @@ categories:
 tags: []
 comments: []
 ---
-<p>That storm never came...<br />
--Andrew</p>
+That storm never came...\
+-Andrew
