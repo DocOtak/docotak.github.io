@@ -27,9 +27,9 @@ R/V Kilo Moana
 * Speed: 11.7 Kts
 * Heading: 252.7T
 * Sal: 35.07 PSU
-* SST: 25.80 &deg;C
+* SST: 25.80 °C
 * Pres: 1017 mbar
-* Air Temp: 24 &deg;C
+* Air Temp: 24 °C
 
 ## Weather and Sea State Observations
 Quite a nice day today in contrast to earlier conditions which were considerable amounts of rain and wind. Cloud cover is about 25%. The swell size is unknown due to a nighttime departure.
