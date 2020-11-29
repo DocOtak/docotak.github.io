@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p><object width="425" height="355"><param name="movie" value="http:&#47;&#47;www.youtube.com&#47;v&#47;-gb0mxcpPOU&rel=1"><&#47;param><param name="wmode" value="transparent"><&#47;param><embed src="http:&#47;&#47;www.youtube.com&#47;v&#47;-gb0mxcpPOU&rel=1" type="application&#47;x-shockwave-flash" wmode="transparent" width="425" height="355"><&#47;embed><&#47;object></p>
+<iframe style="height: 50vh;" width="100%" src="https://www.youtube.com/embed/-gb0mxcpPOU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
